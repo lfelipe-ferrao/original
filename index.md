@@ -50,7 +50,7 @@ Ferrão, R G.; Ferrão, M A G.; Fonseca, A F A.; **Ferrão, L F V.**; Pacova, B 
 
 Souza, F F ; **Ferrão, L F V.**; Caixeta, E T.; Sakiyama, N S.; Pereira,A A.; de Oliveira, A C B; Aspectos Gerais da biologia e diversidade genética de *Coffea canephora*. Book: Café na Amazônia, Embrapa, Brazil, 2016
 
-Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Zambolim, L. . Chapter: Molecular Markers. In: Borém and Fritsche-Neto. (Org.). \textsf{Book: Biotechnology and Plant Breeding: Applications and Approaches for Developing Improved Cultivars}. 1ed.: Elsiever, 1: 1-249, 2014
+Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Zambolim, L. . Chapter: Molecular Markers. In: Borém and Fritsche-Neto. (Org.). Book: Biotechnology and Plant Breeding: Applications and Approaches for Developing Improved Cultivars. 1ed.: Elsiever, 1: 1-249, 2014
 
 Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Marcadores Moleculares. In: Fritsche-Neto e Borém. (Org.).  Book: Biotecnologia Aplicada ao Melhoramento de Plantas. 1ed.Viçosa: UFV, Brazil,  1:32-68, 2012
 
