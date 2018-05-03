@@ -1,10 +1,8 @@
+# Description
+
+Hello. My name is Felipe and I'm a postdoctoral associate at the University of Florida, working under Patricio Munoz. I obtained my Ph.D. in Genetics and Plant Breeding at the University of São Paulo (ESALQ,USP), Brazil. I am currently interested in computing for statistical Genetics, mixed models, Bayesian approaches and quantitative genetics of polyploids.
+
 ## CV
-
-You can use the [editor on GitHub](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
