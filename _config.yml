@@ -9,3 +9,4 @@ url: "http://rramadeu.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme:jekyll-theme-architect
