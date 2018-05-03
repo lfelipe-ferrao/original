@@ -5,9 +5,7 @@ Hello. My name is Felipe and I'm a postdoctoral associate at the University of F
 ## Address
 Horticultural Science Department - IFAS; University of Florida; 2211 Fifield Hall Off 2211;Gainesville, FL 32603
 
-**email:** lfelipe [dot] ferrao [at] gmail [dot]com}
-
-[Blueberry Lab](https://www.blueberrybreeding.com/)
+**email:** lfelipe [dot] ferrao [at] gmail [dot] com
 
 ## Academic Life
 **2017-present** Postdoctoral Associate at Blueberry Breeding and Genomics Lab, University of Florida, Gainesville, FL, USA.
@@ -33,14 +31,14 @@ Perez-Jaramillo, J E, ; Carrion, V J.; Bosse, M.; **Ferrão L F V.**;  de Hollan
 
 **Ferrão, L F V.** ; Caixeta, E T. ; Cruz, C D. ; Souza, F F. ; Ferrão, M A G. ; Maciel-Zambolim, E ; Zambolim, L. ; Sakiyama, N S. . The effects of encoding data in diversity studies and the applicability of the weighting index approach for data analysis from different molecular markers. Plant Systematics and Evolution, 300 (7):1649-1661, 2014
 
-**Ferrão, L F V.** ; Caixeta, E T.  ; Souza, F F. ; Cruz, C D. ; Maciel-Zambolim, E ; Zambolim, L. ; Sakiyama, N S. . Comparative study of different molecular markers for classifying and establishing genetic relationships in *Coffea canephora*. \textsf{Plant Systematics and Evolution}, 299: 225-238, 2013
+**Ferrão, L F V.** ; Caixeta, E T.  ; Souza, F F. ; Cruz, C D. ; Maciel-Zambolim, E ; Zambolim, L. ; Sakiyama, N S. . Comparative study of different molecular markers for classifying and establishing genetic relationships in *Coffea canephora*. Plant Systematics and Evolution, 299: 225-238, 2013
 
 Souza, F F ; Caixeta, E T.; **Ferrão, L F V.**; Pena, G F.; Sakiyama, N S.; Maciel-Zambolim, E; Zambolim, L.; Cruz, C D. . Molecular diversity in *Coffea canephora* germplasm conserved and cultivated in Brazil. Crop Breeding and Applied Biotechnology (Online), v. 13, p. 221, 2013
 
 **Ferrão, L F V.** ; Cecon, P R. ; Finger, F L. ; Silva, F F ; Puiatti, M . Genetic divergence among sub-samples of pepper based on morpho-agronomic characters. Horticultura Brasileira, 29: 354-358, 2011
 
 
-### BOOK CHAPTER
+### Book Chapter
 
 Ferrão, M A G.; **Ferrão, L F V.**; Motta, L B.; Fonseca, A F A.; Souza, E M R.; Ferrão, R G.; Biotecnologia Aplicada a *Coffea canephora*. Book: O Café Conilon. In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 2ed.: Incaper, 2017
 
@@ -54,4 +52,6 @@ Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Zambolim, L. . Chapter
 
 Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Marcadores Moleculares. In: Fritsche-Neto e Borém. (Org.).  Book: Biotecnologia Aplicada ao Melhoramento de Plantas. 1ed.Viçosa: UFV, Brazil,  1:32-68, 2012
 
+### Areas of Research Interest
+Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding, Molecular Breeding, Statistical Computing, Mixed Models, Genomic Prediction and Genomic Selection. 
 
