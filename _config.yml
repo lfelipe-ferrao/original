@@ -6,7 +6,4 @@ url: "http://rramadeu.github.io"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-# Build settings
-markdown: kramdown
-permalink: pretty
 theme:jekyll-theme-architect
