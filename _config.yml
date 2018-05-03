@@ -1,1 +1,11 @@
-theme: jekyll-theme-architect
+title: Rodrigo Amadeu's page
+email: rramadeu@gmail.com
+description: "I am Agronomist and MS in Genetics and Plant Breeding at ESALQ/USP, Brazil. Currently, I am a PhD student at University of Florida. Here, there are some R tutorials, they are drafts (or big drafts sometimes)! More about me at my [CV](https://rramadeu.github.io/about/)"
+baseurl: ""
+url: "http://rramadeu.github.io"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
