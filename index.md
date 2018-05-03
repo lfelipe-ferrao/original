@@ -4,8 +4,13 @@ Hello. My name is Felipe and I'm a postdoctoral associate at the University of F
 
 ## Address
 Horticultural Science Department - IFAS
-University of Florida 
+
+University of Florida
+
 2211 Fifield Hall Off 2211
+
 Gainesville, FL 32603
+
 **email:** lfelipe [dot] ferrao [at] gmail [dot]com}
+
 [Blueberry Lab](https://www.blueberrybreeding.com/)
