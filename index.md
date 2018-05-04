@@ -21,6 +21,9 @@ Horticultural Science Department - IFAS; University of Florida; 2211 Fifield Hal
 ## Publications
 
 ### Articles
+
+Gerard, D., **Ferrão L.F.V.**, Garcia, A.A.F., & Stephens, M. (2018). Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data. bioRxiv. doi: 10.1101/281550, 2018.
+
 Cellon, C; Amadeu, R; Olmstead, J; Mattia,M; **Ferrão, L F V.**; Munoz, P. Estimation of genetic parameters and prediction of breeding values in an autotetraploid blueberry breeding population with extensive pedigree data. Euphytica, 2018.
 
 **Ferrão, L F V.**; Ferrão, R G.; Ferrão M A G.; Fonseca, A.; Garcia, A A F. Mixed model to multiple harvest-location trial applied to genomic prediction in *Coffe canephora*. Tree Genetics and Genomes 13:95, 2017.
@@ -59,6 +62,12 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 - [AGHmatrix](https://github.com/prmunoz/AGHmatrix), contributor, software to compute relationship matrices for diploid and autopolyploid species
 
-- [Updog](https://github.com/dcgerard/updog), contributor, suite of methods for genotyping autopolyploids from next-generation sequencing (NGS).
+- [Updog](https://github.com/dcgerard/updog), contributor, suite of methods for genotyping autopolyploids from next-generation sequencing (NGS) data.
 
+## Talks
 
+- Lecture: Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France, 2018.
+
+- Comparison of statistical methods and reliability of genomic prediction in *Coffea canephora* populations. Coffee Workshop. PAG XXV - Plant and Animal Genome Conference, San Diego, USA, 2017.
+
+- Mixed model to multiple harvest-location trial applied to genomic prediction in *Coffea canephora*. Coffee Workshop. PAG XXIV - Plant and Animal Genome Conference, San Diego, USA, 2016.
