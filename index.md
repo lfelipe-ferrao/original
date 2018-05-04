@@ -8,7 +8,7 @@ Horticultural Science Department - IFAS; University of Florida; 2211 Fifield Hal
 **email:** lfelipe [dot] ferrao [at] gmail [dot] com
 
 ## Academic Life
-**2017-present** Postdoctoral Associate at Blueberry Breeding and Genomics Lab, University of Florida, Gainesville, FL, USA.
+**2017-present** Postdoctoral Associate at Blueberry Breeding and Genomics Lab, University of Florida, Gainesville, FL, USA. **PI**: [Patricio Munoz](https://www.blueberrybreeding.com/).
 
 **2013-2017** Ph.D in Genetics and Plant Breeding, Department of Genetics, “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP), Brazil. **Dissertation**: Development and application of statistical genetic methods to genomic prediction in *Coffea canephora* . **Supervisor:** [Antonio Augusto Franco Garcia](http://augustogarcia.me/statgen-esalq/) 
 
