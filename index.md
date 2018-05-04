@@ -66,8 +66,21 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 ## Talks
 
-- Lecture: Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France, 2018.
+- Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France, 2018.
 
 - Comparison of statistical methods and reliability of genomic prediction in *Coffea canephora* populations. Coffee Workshop. PAG XXV - Plant and Animal Genome Conference, San Diego, USA, 2017.
 
 - Mixed model to multiple harvest-location trial applied to genomic prediction in *Coffea canephora*. Coffee Workshop. PAG XXIV - Plant and Animal Genome Conference, San Diego, USA, 2016.
+
+## Teaching experiences
+- **Teacher Assistant (TA):** [Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/), University of Florida. Supervisor: Patricio Munoz, Marcio Resende, Kevin Folta, 2018.
+
+- **Monitor of the course:** Biometrics of Genetic Markers, ESALQ/USP. Supervisor: Dr. [Antonio Augusto Franco Garcia](https://scholar.google.com/citations?user=xLd8lNoAAAAJ&hl=en). 2015 and 2017
+
+- **Monitor of the course:** Calculus 1, ESALQ/USP. Supervisor: Dra. [Clarice Demétrio](https://scholar.google.com/citations?user=2WmcAr4AAAAJ&hl=en#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3D2WmcAr4AAAAJ%26citation_for_view%3D2WmcAr4AAAAJ%3Au5HHmVD_uO8C%26tzom%3D240). 2014
+
+- **Monitor of the course:** Molecular Genetics, ESALQ/USP. Supervisor: Dra. [Cláudia Vitorello](https://scholar.google.com/citations?user=wM2yIrYAAAAJ&hl=en). 2014
+
+**Monitor of the course:** Laboratory of Genetics, UFV. Supervisor: Dr. [Pedro Crescencio](https://scholar.google.com.br/citations?user=LksdyM8AAAAJ&hl=pt-BR). 2011
+
+**Monitor of the course:** Molecular Biology I and II, UFV. Supervisor: Dr. Everaldo G. Barros. 2010
