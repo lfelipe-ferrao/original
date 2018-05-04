@@ -71,7 +71,7 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 - [AGHmatrix](https://github.com/prmunoz/AGHmatrix), contributor, software to compute relationship matrices for diploid and autopolyploid species
 
-- [Updog](https://github.com/dcgerard/updog), contributor, suite of methods for genotyping autopolyploids from next-generation sequencing (NGS) data.
+- [Updog](https://github.com/dcgerard/updog), contributor,  is a package containing empirical Bayes approaches to genotype individuals (particularly polyploids) from next generation sequencing (NGS) data.
 
 ## Talks
 
