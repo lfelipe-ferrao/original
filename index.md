@@ -58,6 +58,15 @@ Caixeta, E T. ; **Ferrão, L F V.** ; Maciel-Zambolim, E; Marcadores Moleculares
 ### Areas of Research Interest
 Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding, Molecular Breeding, Statistical Computing, Mixed Models, Genomic Prediction and Genomic Selection. 
 
+## Computer Skills
+
+- **OS:** Linux, Mac and Windows
+
+- **Adv. training:** R and Bash (shell scripts) 
+
+- **Typography:** LaTeX and Markdown 
+
+
 ## Software
 
 - [AGHmatrix](https://github.com/prmunoz/AGHmatrix), contributor, software to compute relationship matrices for diploid and autopolyploid species
