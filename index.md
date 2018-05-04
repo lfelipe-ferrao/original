@@ -73,7 +73,10 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 - Mixed model to multiple harvest-location trial applied to genomic prediction in *Coffea canephora*. Coffee Workshop. PAG XXIV - Plant and Animal Genome Conference, San Diego, USA, 2016.
 
 ## Teaching experiences
-- **Teacher Assistant (TA):** [Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/), University of Florida. Supervisor: Patricio Munoz, Marcio Resende, Kevin Folta, 2018.
+
+- **Lecture**:Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France. 2018.
+ 
+- **Teacher Assistant (TA):** [Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/), University of Florida. Supervisor: [Patricio Munoz](https://scholar.google.com/citations?user=e7GRRWYAAAAJ&hl=en), [Marcio Resende](https://scholar.google.com/citations?user=dgLyeFoAAAAJ&hl=en), [Kevin Folta](https://scholar.google.com/citations?user=kIh3BRwAAAAJ&hl=en). 2018.
 
 - **Monitor of the course:** Biometrics of Genetic Markers, ESALQ/USP. Supervisor: Dr. [Antonio Augusto Franco Garcia](https://scholar.google.com/citations?user=xLd8lNoAAAAJ&hl=en). 2015 and 2017
 
@@ -81,6 +84,6 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 - **Monitor of the course:** Molecular Genetics, ESALQ/USP. Supervisor: Dra. [Cláudia Vitorello](https://scholar.google.com/citations?user=wM2yIrYAAAAJ&hl=en). 2014
 
-**Monitor of the course:** Laboratory of Genetics, UFV. Supervisor: Dr. [Pedro Crescencio](https://scholar.google.com.br/citations?user=LksdyM8AAAAJ&hl=pt-BR). 2011
+- **Monitor of the course:** Laboratory of Genetics, UFV. Supervisor: Dr. [Pedro Crescencio](https://scholar.google.com.br/citations?user=LksdyM8AAAAJ&hl=pt-BR). 2011
 
-**Monitor of the course:** Molecular Biology I and II, UFV. Supervisor: Dr. Everaldo G. Barros. 2010
+- **Monitor of the course:** Molecular Biology I and II, UFV. Supervisor: Dr. Everaldo G. Barros. 2010
