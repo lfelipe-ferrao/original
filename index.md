@@ -22,7 +22,9 @@ Horticultural Science Department - IFAS; University of Florida; 2211 Fifield Hal
 
 ### Articles
 
-Gerard, D., **Ferrão L.F.V.**, Garcia, A.A.F., & Stephens, M. (2018). Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data. bioRxiv. doi: 10.1101/281550, 2018.
+**Ferrão L F V.**;  Ferrão, R G.; Ferrão M A G.; Fonseca, A.; Carbonetto, P.; Stephens, M.; Garcia, A A F. Accurate genomic prediction of Coffea canephora in multiple environments using whole-genome statistical models. Heredity, 2018.
+
+Gerard, D., **Ferrão L.F.V.**, Garcia, A.A.F., Stephens, M. . Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data. bioRxiv. doi: 10.1101/281550, 2018.
 
 Cellon, C; Amadeu, R; Olmstead, J; Mattia,M; **Ferrão, L F V.**; Munoz, P. Estimation of genetic parameters and prediction of breeding values in an autotetraploid blueberry breeding population with extensive pedigree data. Euphytica, 2018.
 
