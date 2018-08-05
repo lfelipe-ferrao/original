@@ -22,6 +22,8 @@ Horticultural Science Department - IFAS; University of Florida; 2211 Fifield Hal
 
 ### Articles
 
+Cappai F^{CO}; Benevenuto J; **Ferrao, L F V**; Munoz, P. [Molecular and Genetic Bases of Fruit Firmness Variation in Blueberry—A Review](https://www.preprints.org/manuscript/201808.0089/v1). Preprints, Agronomy,doi: 10.20944/preprints201808.0089.v1, 2018 .
+
 **Ferrão, L F V**; Benevenuto, J; De Bem Oliveira; I; Cellon, C; Olmstead, J; Kirst, M; Resende Jr. M F R; Munoz, P. [Insights Into the Genetic Basis of Blueberry Fruit-Related Traits Using Diploid and Polyploid Models in a GWAS Context](https://www.frontiersin.org/articles/10.3389/fevo.2018.00107/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=358906). Frontiers Ecology Evolution, doi.org/10.3389/fevo.2018.00107, 2018
 
 
