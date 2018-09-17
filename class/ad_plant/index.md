@@ -1,10 +1,9 @@
 # AGR6322 - Advanced Plant Breeding
 
-## Fall 2018
+## Prof: Esteban Rios
 
-### Instructor
+### Fall 2018
 
-- Name: Esteban Rios
 - email: estebanrios@ufl.edu
 - adress: 2005 SW 23rd Street Building 350 Off 352-294-3795
 - TA: [Felipe Ferrão](https://lfelipe-ferrao.github.io/)
