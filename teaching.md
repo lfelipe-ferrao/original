@@ -8,9 +8,7 @@
 
 ### Fall 2017
 
--  [HOS 6236 - Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/) 
-
-Supervisor: Patricio Munoz, Marcio Resende Jr., Kevin Folta
+-  [HOS 6236 - Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/) - Supervisor: Patricio Munoz, Marcio Resende Jr., Kevin Folta
 
 
 
