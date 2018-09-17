@@ -1,6 +1,4 @@
-# Teaching
-
-## University of Florida - Teacher Assistant (TA)
+## Teacher Assistant (TA)
 
 ### Fall 2018
 
