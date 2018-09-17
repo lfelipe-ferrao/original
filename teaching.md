@@ -1,6 +1,6 @@
 # Teaching
 
-## University of Florida - Teacher Assistant 
+## University of Florida - Teacher Assistant (TA)
 
 ### Fall 2018
 
@@ -8,5 +8,7 @@
 
 ### Fall 2017
 
--  Molecular Marker Assisted Plant Breeding [website](https://hos6236.github.io/)
+-  [Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/)
+
+
 
