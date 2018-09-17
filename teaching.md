@@ -8,7 +8,8 @@
 
 ### Fall 2017
 
--  [HOS 6236 - Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/) 
+- [HOS 6236 - Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/) 
+- [LGN 5830 - Biometria de Marcadores Genéticos](http://augustogarcia.me/Biometria-de-Marcadores/)
 
 
 
