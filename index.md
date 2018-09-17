@@ -8,5 +8,18 @@ I obtained my Ph.D. in Genetics and Plant Breeding at the University of São Pau
 - [Publications](./publication.html)
 - [Teaching](./teaching.html)
 - [Software](./software.html)
-- [Contact](./contact.html)
+
+
+### Contact 
+
+Horticultural Science Department - IFAS
+
+University of Florida
+
+2211 Fifield Hall Off 2211
+
+Gainesville, FL 32603
+
+- email1: lfelipe [dot] ferrao [at] gmail [dot] com
+- email2: lferrao [at] ufl [dot] edu
 
