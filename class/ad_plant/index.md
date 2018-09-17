@@ -33,8 +33,8 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 - Course overview
 
-- Population Genetics I [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop1.pdf)
+- Population Genetics I - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop1.pdf)
 
-- Population Genetics II [pdf](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop2.pdf) 
+- Population Genetics II - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop2.pdf) 
 
-- Population Genetics III [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop3.pdf)
+- Population Genetics III - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop3.pdf)
