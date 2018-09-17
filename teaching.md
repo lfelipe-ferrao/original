@@ -4,7 +4,7 @@
 
 ### Fall 2018
 
-- [Advanced Plant Breeding](class/ad_plant/index.html)
+- [AGR 6322 - Advanced Plant Breeding](class/ad_plant/index.html)
 
 ### Fall 2017
 
