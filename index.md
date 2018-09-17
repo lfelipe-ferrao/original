@@ -4,4 +4,5 @@ Hello. My name is Luis Felipe Ventorim Ferrão and I'm a postdoctoral associate 
 - [Publications](./publication.html)
 - [Teaching](./teaching.html)
 - [Software](./software.html)
+- [Contact](./contact.html)
 
