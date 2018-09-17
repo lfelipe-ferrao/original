@@ -31,7 +31,7 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 # Lectures
 
-- Aug/23: Course overview
+- Aug/23: Course overview [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/Syllabus.pdf)
 
 - Aug/28: Population Genetics I - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop1.pdf)
 
