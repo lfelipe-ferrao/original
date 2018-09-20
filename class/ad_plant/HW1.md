@@ -61,6 +61,11 @@ head(metric$whole$Markers)
 metric$whole$Population
 metric$whole$Variability
 ```
+Some results:
+
+- H0 = 0.04
+- F = 0.91
+- Ne = 99.30
 
 ### Question 5:
 Based on this data set, try to compute another population metric that might be important to describe the population. It may be one of the metrics already described in the paper (e.g., Fst, dendrogram, linkage disequilibrium) or any other that you judge important. Show the codes used to compute it and discuss an eventual importance of the proposed analysis in the context of the paper. Below, I am running a PCA analysis.
