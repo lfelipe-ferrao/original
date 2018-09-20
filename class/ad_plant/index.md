@@ -36,4 +36,8 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 - Aug/30: Population Genetics II - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop2.pdf) [[R]](http://htmlpreview.github.io/?https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/R_class.html)[[HW]](./HW1.html)
 
-- Sept/04: Population Genetics III - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop3.pdf)
+- Sep/04: Population Genetics III - Dr. Matias Kirst [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/pop3.pdf)
+
+- Sep/13: Polyploid in Plant Breeding [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class4.pdf) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2018.00513/full)
+
+- Sep/20: Mating Designs I [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class5.pdf)
