@@ -2,6 +2,8 @@
 
 ## Articles
 
+### 2018
+
 Cappai F<sup>co</sup>; Benevenuto J<sup>co</sup>; **Ferrão, L F V**<sup>co</sup>; Munoz, P. [Molecular and Genetic Bases of Fruit Firmness Variation in Blueberry — A Review](http://www.mdpi.com/2073-4395/8/9/174). Agronomy, 8(9), 174, 2018. 
 <sup>co:authors contributed equally</sup>
 
@@ -15,18 +17,24 @@ Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Harnessing Empirical
 
 Cellon, C; Amadeu, R; Olmstead, J; Mattia,M; **Ferrão, L F V.**; Munoz, P. [Estimation of genetic parameters and prediction of breeding values in an autotetraploid blueberry breeding population with extensive pedigree data](https://link.springer.com/article/10.1007/s10681-018-2165-8). Euphytica, 2018.
 
+
+### 2017
 **Ferrão, L F V**; Ferrão, R G.; Ferrão M A G.; Fonseca, A.; Garcia, A A F. [Mixed model to multiple harvest-location trial applied to genomic prediction in *Coffe canephora*](https://link.springer.com/article/10.1007/s11295-017-1171-7). Tree Genetics and Genomes 13:95, 2017.
 
 Perez-Jaramillo, J E; Carrion, V J; Bosse, M.; **Ferrão L F V**;  de Hollander, M; Garcia, A A F; Ramírez, C; Mendes, .;  Raaijmakers, J.M. [Linking rhizosphere microbiome composition of wild and domesticated Phaseolus vulgaris to genotypic and root phenotypic traits](https://www.nature.com/articles/ismej201785). The ISME Journal, 2017.
 
+### 2015
 **Ferrão, L F V** ; Caixeta, E T; Pena, G F; Maciel-Zambolim, E ; Cruz, C D;  Zambolim, L; Ferrão, M A G;  Sakiyama, N S. [New EST-SSR markers of *Coffea arabica*: transferability and application to studies of molecular characterization and genetic mapping](https://link.springer.com/article/10.1007/s11032-015-0247-z). Molecular Breeding 35 (1),1-5, 2015.
 
+### 2014
 **Ferrão, L F V** ; Caixeta, E T; Cruz, C D; Souza, F F; Ferrão, M A G; Maciel-Zambolim, E ; Zambolim, L; Sakiyama, N S. [The effects of encoding data in diversity studies and the applicability of the weighting index approach for data analysis from different molecular markers](https://link.springer.com/article/10.1007/s00606-014-0990-3). Plant Systematics and Evolution, 300 (7):1649-1661, 2014
 
+### 2013
 **Ferrão, L F V** ; Caixeta, E T; Souza, F F; Cruz, C D; Maciel-Zambolim, E; Zambolim, L; Sakiyama, N S. [Comparative study of different molecular markers for classifying and establishing genetic relationships in *Coffea canephora*](https://link.springer.com/article/10.1007/s00606-012-0717-2). Plant Systematics and Evolution, 299: 225-238, 2013
 
 Souza, F F ; Caixeta, E T; **Ferrão, L F V**; Pena, G F; Sakiyama, N S; Maciel-Zambolim, E; Zambolim, L; Cruz, C D. [Molecular diversity in *Coffea canephora* germplasm conserved and cultivated in Brazil](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1984-70332013000400001). Crop Breeding and Applied Biotechnology (Online), v. 13, p. 221, 2013
 
+### 2011
 **Ferrão, L F V** ; Cecon, P R ; Finger, F L; Silva, F F; Puiatti, M . Genetic divergence among sub-samples of pepper based on morpho-agronomic characters. Horticultura Brasileira, 29: 354-358, 2011
 
 
