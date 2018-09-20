@@ -35,6 +35,7 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 [pdf] = slides used in class
 [R] = R codes
 [HW] = homework
+[paper] = article suggested
 ```
 
 - Aug/23: Course overview [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/Syllabus.pdf)
