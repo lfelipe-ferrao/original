@@ -40,4 +40,4 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 - Sep/13: Polyploid in Plant Breeding [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class4.pdf) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2018.00513/full)
 
-- Sep/20: Mating Designs I [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class5.pdf)
+- Sep/20: Mating Designs I [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class5.pdf) [[paper]](http://escijournals.net/index.php/JPBG/article/view/124)
