@@ -8,18 +8,15 @@ Below, I listed some R packages and software that I have been using for quantita
 - lme4
 
 ## Bayesian Analysis
-- BGLR
-- MCMCglmm
-- JAGS
+- BGLR: Bayesian Generalized Linear Regression (whole-genome prediction)
+- MCMCglmm: Bayesian Generalized Linear Regression (broader applications)
+- JAGS: Bayesian programming language.
+- brsm: An R Package for Bayesian Multilevel Models using Stan
 
 ## GWAS
-- GEMMA
+- GEMMA: univariate, multivariate and Bayesian Variable Selection methods
 
 ## Polyploid analysis
 
-### Allele Dosage
-- Updog
-- SuperMASSA
-
-# GWAS
-- GWASpoly
+- Updog: allele dosage using from NGS.
+- GWASpoly: K+Q model under different gene action.
