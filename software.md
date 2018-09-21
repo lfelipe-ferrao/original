@@ -8,7 +8,7 @@
 
 - [Github](https://github.com/prmunoz/AGHmatrix)
 
-- Amadeu, R. R., Cellon, C., Olmstead, J. W., Garcia, A. A., Resende, M. F., & Muñoz, P. R. (2016). AGHmatrix: R Package to construct relationship matrices for autotetraploid and diploid species: a blueberry example. The plant genome, 9(3).
+- Amadeu, R. R., Cellon, C., Olmstead, J. W., Garcia, A. A., Resende, M. F., & Muñoz, P. R. (2016). [AGHmatrix: R Package to construct relationship matrices for autotetraploid and diploid species: a blueberry example](https://dl.sciencesocieties.org/publications/tpg/abstracts/9/3/plantgenome2016.01.0009). The Plant Genome, 9(3).
 
 
 ## Updog
