@@ -1,8 +1,8 @@
 Below, I listed some R packages and software that I have been using for quantitative genetics analysis during my academic works:
 
 ## Mixed Models
-- Sommer
-- Regress
+- [Sommer](https://cran.r-project.org/web/packages/sommer/vignettes/sommer.pdf)
+- [Regress](https://cran.r-project.org/web/packages/regress/regress.pdf)
 - rrBLUP
 - nlme
 - lme4
