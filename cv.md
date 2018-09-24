@@ -96,6 +96,8 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 ## Teaching experiences
 
+- **Teacher Assistant (TA):** [Advanced Plant Breeding](https://lfelipe-ferrao.github.io/class/ad_plant/index.html), University of Florida. Supervisor: Esteban Rios. 2018.
+
 - **Lecture**:Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France. 2018.
  
 - **Teacher Assistant (TA):** [Molecular Marker Assisted Plant Breeding](https://hos6236.github.io/), University of Florida. Supervisor: [Patricio Munoz](https://scholar.google.com/citations?user=e7GRRWYAAAAJ&hl=en), [Marcio Resende](https://scholar.google.com/citations?user=dgLyeFoAAAAJ&hl=en), [Kevin Folta](https://scholar.google.com/citations?user=kIh3BRwAAAAJ&hl=en). 2018.
