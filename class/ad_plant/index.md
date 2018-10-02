@@ -51,3 +51,5 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 - Sep/20: Mating Designs I [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class5.pdf) [[paper]](http://escijournals.net/index.php/JPBG/article/view/124)
 
 - Sep/25: Experimental Designs in Plant Breeding [[pdf1]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class6.pdf)[[pdf2]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class8.pdf)[[R]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class7.pdf) [[paper]](https://doi.org/10.1038/hdy.2009.153)
+
+- Oct/02: Mixed Models [[pdf1]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class9.pdf)  [[paper]](https://link.springer.com/article/10.1007/s10681-007-9449-8) 
