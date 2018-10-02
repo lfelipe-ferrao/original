@@ -1,4 +1,4 @@
-# Alpha-design
+# Alpha-lattice design
 
 ## Carlos Henrique Pereira (UFLA,Brazil)
 
@@ -9,7 +9,7 @@ setwd("C:/Users/Dell/Desktop/Ex Panicum")
 
 ### Download the data
 
-- [Data set] ((https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/Ex.Panicum.csv))
+- (Data set) ((https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/Ex.Panicum.csv))
 
 ```
 data<-read.csv("Ex. Panicum.csv",sep = ";" ,h=T)
