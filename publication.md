@@ -1,5 +1,14 @@
 # Publications
 
+## Preprint
+
+de Bem Oliveira,I; Resende Jr., M F R;  **Ferrao, F**; Amadeu, R; Endelman, J;  Kirst, Matias;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](https://www.biorxiv.org/content/early/2018/10/03/432179?rss=1&utm_source=dlvr.it&utm_medium=twitter). bioRxiv. doi: https://doi.org/10.1101/432179, 2018
+
+
+**Ferrão, L F V**; Marinho, C D; Munoz, P R; Resende Jr, M F R. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
+
+Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data](https://www.biorxiv.org/content/early/2018/03/16/281550). bioRxiv. doi: 10.1101/281550, 2018.
+
 ## Articles
 
 ### 2018
@@ -9,11 +18,8 @@ Cappai F<sup>co</sup>; Benevenuto J<sup>co</sup>; **Ferrão, L F V**<sup>co</sup
 
 **Ferrão, L F V**; Benevenuto, J; De Bem Oliveira; I; Cellon, C; Olmstead, J; Kirst, M; Resende Jr. M F R; Munoz, P. [Insights Into the Genetic Basis of Blueberry Fruit-Related Traits Using Diploid and Polyploid Models in a GWAS Context](https://www.frontiersin.org/articles/10.3389/fevo.2018.00107/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=358906). Frontiers Ecology Evolution, 2018
 
-**Ferrão, L F V**; Marinho, C D; Munoz, P R; Resende Jr, M F R. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
-
 **Ferrão, L F V**;  Ferrão, R G; Ferrão M A G; Fonseca, A; Carbonetto, P; Stephens, M; Garcia, A A F. [Accurate genomic prediction of Coffea canephora in multiple environments using whole-genome statistical models](https://www.nature.com/articles/s41437-018-0105-y). Heredity, 2018.
 
-Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data](https://www.biorxiv.org/content/early/2018/03/16/281550). bioRxiv. doi: 10.1101/281550, 2018.
 
 Cellon, C; Amadeu, R; Olmstead, J; Mattia,M; **Ferrão, L F V.**; Munoz, P. [Estimation of genetic parameters and prediction of breeding values in an autotetraploid blueberry breeding population with extensive pedigree data](https://link.springer.com/article/10.1007/s10681-018-2165-8). Euphytica, 2018.
 
