@@ -57,3 +57,5 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 - Oct/09: GxE and Multivariate analysis [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class10.pdf)  
 
 - Oct/16: QTL mapping and Marker Assisted Selection [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class11.pdf) [[paper1]](https://www.actahort.org/books/1111/1111_45.htm) [[paper2]](https://www.frontiersin.org/articles/10.3389/fpls.2017.00577/full) [[paper3]](https://www.ncbi.nlm.nih.gov/pubmed/20150489) [[paper4]](http://www.plantphysiol.org/content/147/3/969) [[paper5]](https://www.nature.com/articles/nrg701)
+
+- Oct/18:Marker Assisted Selection in Tropical Fruits [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class12.pdf)
