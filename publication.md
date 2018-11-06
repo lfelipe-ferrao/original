@@ -7,11 +7,13 @@ de Bem Oliveira,I; Resende Jr., M F R;  **Ferrao, F**; Amadeu, R; Endelman, J;  
 
 **Ferrão, L F V**; Marinho, C D; Munoz, P R; Resende Jr, M F R. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
 
-Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Harnessing Empirical Bayes and Mendelian Segregation for Genotyping Autopolyploids from Messy Sequencing Data](https://www.biorxiv.org/content/early/2018/03/16/281550). bioRxiv. doi: 10.1101/281550, 2018.
+
 
 ## Articles
 
 ### 2018
+
+Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Genotyping Polyploids from Messy Sequencing Data](http://www.genetics.org/content/210/3/789?etoc). Genetics, Vol. 210, 789–807, 2018.
 
 Cappai F<sup>co</sup>; Benevenuto J<sup>co</sup>; **Ferrão, L F V**<sup>co</sup>; Munoz, P. [Molecular and Genetic Bases of Fruit Firmness Variation in Blueberry — A Review](http://www.mdpi.com/2073-4395/8/9/174). Agronomy, 8(9), 174, 2018. 
 <sup>co:authors contributed equally</sup>
