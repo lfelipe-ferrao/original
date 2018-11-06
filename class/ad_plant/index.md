@@ -62,4 +62,4 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 - Oct/23: Genome-Wide Association Analysis (GWAS) [[HTML]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/gwas_class.html) [[paper1]]( https://www.nature.com/articles/nrg2896) [[paper2]](https://dl.sciencesocieties.org/publications/tpg/abstracts/1/1/5)
 
-- Oct/30: Genomic Selection [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class13.pdf) [[paper]](https://www.sciencedirect.com/science/article/pii/S136013851730184X?via%3Dihub)
+- Oct/30: Genomic Selection [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class13.pdf) [[paper]](https://www.sciencedirect.com/science/article/pii/S136013851730184X?via%3Dihub)[[GS-UFStrawberry]]((https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class14.pdf)
