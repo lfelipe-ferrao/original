@@ -64,4 +64,4 @@ To familiarize students with advanced breeding strategies, methods, and techniqu
 
 - Oct/30: Genomic Selection [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class13.pdf) [[paper]](https://www.sciencedirect.com/science/article/pii/S136013851730184X?via%3Dihub)[[GS-UFStrawberry]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class14.pdf)
 
-- Nov/06: Gene Editing [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class15.pdf)
+- Nov/06: Gene Editing [[pdf]](https://github.com/lfelipe-ferrao/lfelipe-ferrao.github.io/blob/master/class/ad_plant/class15.pdf) [[paper]](https://www.nature.com/articles/nbt.4272#f1)
