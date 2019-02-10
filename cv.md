@@ -88,6 +88,8 @@ Statistical Genetics, Quantitative Genetics, Bayesian Statistic, Plant Breeding,
 
 ## Talks
 
+- Unraveling the genetic basis and consumer preference of blueberry flavor. Gordon Research Seminar. Quantitative Genetics and Genomics (GRS). Italy, Lucca (Barga), 2019.
+
 - Coffee Breeding and Genomic Selection. Lecture in the master program of plant breeding. UniLaSalle, Beauvais, France, 2018.
 
 - Comparison of statistical methods and reliability of genomic prediction in *Coffea canephora* populations. Coffee Workshop. PAG XXV - Plant and Animal Genome Conference, San Diego, USA, 2017.
