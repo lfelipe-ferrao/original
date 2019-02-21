@@ -2,14 +2,16 @@
 
 ## Preprint
 
-de Bem Oliveira,I; Resende Jr., M F R;  **Ferrao, F**; Amadeu, R; Endelman, J;  Kirst, Matias;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](https://www.biorxiv.org/content/early/2018/10/03/432179?rss=1&utm_source=dlvr.it&utm_medium=twitter). bioRxiv. doi: https://doi.org/10.1101/432179, 2018
-
-
 **Ferrão, L F V**; Marinho, C D; Munoz, P R; Resende Jr, M F R. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
 
 
 
 ## Articles
+
+## 2019
+
+de Bem Oliveira,I; Resende Jr., M F R;  **Ferrão, LFV**; Amadeu, R; Endelman, J;  Kirst, Matias;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](http://www.g3journal.org/content/early/2019/02/19/g3.119.400059). G3: GENES, GENOMES, GENETIC, 2019
+
 
 ### 2018
 
