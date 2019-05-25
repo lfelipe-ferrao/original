@@ -50,9 +50,14 @@ Souza, F F ; Caixeta, E T; **Ferrão, L F V**; Pena, G F; Sakiyama, N S; Maciel-
 
 ## Book Chapter
 
+Ferrão, M A G.; **Ferrão, L F V.**; Motta, L B.; Fonseca, A F A.; Souza, E M R.; Ferrão, R G.; Biotechnology Applied to *Coffea canephora*. [Book: Conillon Coffee](https://bibliotecaruitendinha.incaper.es.gov.br/categorias-de-publicacoes/cafeicultura) In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 3ed.: Incaper, 2019
+
+Ferrão, R G.; Ferrão, M A G.; Fonseca, A F A.; **Ferrão, L F V.**; Pacova, B E V.; *Coffea canephora* Breeding. [Book: Conillon Coffee](https://bibliotecaruitendinha.incaper.es.gov.br/categorias-de-publicacoes/cafeicultura). In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 3ed.: Incaper, 2019
+
+
 Ferrão, M A G.; **Ferrão, L F V.**; Motta, L B.; Fonseca, A F A.; Souza, E M R.; Ferrão, R G.; Biotecnologia Aplicada a *Coffea canephora*. Book: O Café Conilon. In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 2ed.: Incaper, 2017
 
-Ferrão, R G.; Ferrão, M A G.; Fonseca, A F A.; **Ferrão, L F V.**; Pacova, B E V.; Melhoramento de *Coffea canephora*. Book: O Café Conilon. In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 2ed.: Incaper, 2017
+Ferrão, R G.; Ferrão, M A G.; Fonseca, A F A.; **Ferrão, L F V.**; Pacova, B E V.; Melhoramento de *Coffea canephora*. Book: O Café Conilon. V2. In: Ferrão, R G.; Fonseca, A F A.; Ferrão, M A G.; De Muner, L H (Ed.). 2ed.: Incaper, 2017
 
 **Ferrão, L F V.**; Garcia, A A F.; Ortiz, R.Genomic Selection - State of Art. Book: Genetic Improvement of Tropical Species. In: Hugo Campos and Peter D. S Caligari (Ed.).  Springer, 2017
 
