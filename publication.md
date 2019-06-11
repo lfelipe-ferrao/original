@@ -10,12 +10,14 @@
 
 ## 2019
 
+Benevenuto, J; **Ferrão, L F V**; Amadeu, R R; Munoz, P; [How can a high-quality genome assembly help plant breeders?](https://academic.oup.com/gigascience/article/8/6/giz068/5513659?guestAccessKey=6ff2ddb4-148b-44a7-970a-1c1a9f394200). GigaScience, 2019
+
 de Bem Oliveira,I; Resende Jr., M F R;  **Ferrão, LFV**; Amadeu, R; Endelman, J;  Kirst, Matias;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](http://www.g3journal.org/content/early/2019/02/19/g3.119.400059). G3: GENES, GENOMES, GENETIC, 2019
 
 
 ### 2018
 
-Gerard, D; **Ferrão, L F V**; Garcia, A A F; Stephens, M. [Genotyping Polyploids from Messy Sequencing Data](http://www.genetics.org/content/210/3/789?etoc). Genetics, Vol. 210, 789–807, 2018.
+Gerard, D; **Ferrão, LFV**; Garcia, A A F; Stephens, M. [Genotyping Polyploids from Messy Sequencing Data](http://www.genetics.org/content/210/3/789?etoc). Genetics, Vol. 210, 789–807, 2018.
 
 Cappai F<sup>co</sup>; Benevenuto J<sup>co</sup>; **Ferrão, L F V**<sup>co</sup>; Munoz, P. [Molecular and Genetic Bases of Fruit Firmness Variation in Blueberry — A Review](http://www.mdpi.com/2073-4395/8/9/174). Agronomy, 8(9), 174, 2018. 
 <sup>co:authors contributed equally</sup>
