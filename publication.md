@@ -12,7 +12,7 @@
 
 Benevenuto, J; **Ferrão, L F V**; Amadeu, R R; Munoz, P; [How can a high-quality genome assembly help plant breeders?](https://academic.oup.com/gigascience/article/8/6/giz068/5513659?guestAccessKey=6ff2ddb4-148b-44a7-970a-1c1a9f394200). GigaScience, 2019
 
-de Bem Oliveira,I; Resende Jr., M F R;  **Ferrão, LFV**; Amadeu, R; Endelman, J;  Kirst, Matias;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](http://www.g3journal.org/content/early/2019/02/19/g3.119.400059). G3: GENES, GENOMES, GENETIC, 2019
+de Bem Oliveira,I; Resende Jr., M F R;  **Ferrão, L F V**; Amadeu, R; Endelman, J;  Kirst, M;  Coelho, A S G; Munoz, P R; [Genomic prediction of autotetraploids; influence of relationship matrices, allele dosage, and continuous genotyping calls in phenotype prediction](http://www.g3journal.org/content/early/2019/02/19/g3.119.400059). G3: GENES, GENOMES, GENETIC, 2019
 
 
 ### 2018
