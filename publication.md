@@ -2,7 +2,7 @@
 
 ## Preprint
 
-Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://www.biorxiv.org/content/10.1101/751784v1). bioRxiv. doi: https://doi.org/10.1101/751784
+Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://www.biorxiv.org/content/10.1101/751784v1). bioRxiv. doi: 10.1101/751784, 2019. 
 
 **Ferrão, L F V**; Marinho, C D; Munoz, P R; Resende Jr, M F R. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
 
