@@ -2,8 +2,6 @@
 
 ## Preprint
 
-Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://www.biorxiv.org/content/10.1101/751784v1). bioRxiv. doi: 10.1101/751784, 2019. 
-
 **Ferrão, LFV**; Marinho, CD; Munoz, PR; Resende Jr, MFR. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
 
 
@@ -11,6 +9,8 @@ Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://www.b
 ## Articles
 
 ## 2019
+
+Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz852/5625617). Bioinformatics, 2019. 
 
 Amadeu, RR; **Ferrão, LFV**; de Bem Oliveira,I; Benevenuto, J; Endelman, J; Munoz, PR; [Impact of Dominance Effects on Autotetraploid Genomic Prediction](https://dl.sciencesocieties.org/publications/cs/abstracts/0/0/cropsci2019.02.0138). Crop Science, 2019.
 
