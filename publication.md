@@ -9,7 +9,8 @@
 ## Articles
 
 ## 2019
-Benevenuto, J; Bhakta, M; Lohr, DA; **Ferrão,LFV**; Resende Jr, MFR; Kirst,M; Quesenberry, K; Munoz, P.[Cost-effective detection of genome-wide signatures for 2,4-D herbicide resistance adaptation in red clover](https://www.nature.com/articles/s41598-019-55676-9). Scientific Reports. 2019.
+
+Benevenuto, J; Bhakta, M; Lohr, DA; **Ferrão,LFV**; Resende Jr, MFR; Kirst,M; Quesenberry, K; Munoz, P. [Cost-effective detection of genome-wide signatures for 2,4-D herbicide resistance adaptation in red clover](https://www.nature.com/articles/s41598-019-55676-9). Scientific Reports. 2019.
 
 Gerard, D and **Ferrão, LFV**. [Priors for Genotyping Polyploids](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz852/5625617). Bioinformatics, 2019. 
 
