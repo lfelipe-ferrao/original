@@ -8,7 +8,14 @@
 
 ## Articles
 
-## 2019
+### 2020
+
+**Ferrão, LFV**; Johnson, TS; Benevenuto, J; Edger, PP;  Colquhoun, TA;  Munoz, PR. [Genome‐wide association of volatiles reveals candidate loci for blueberry flavor](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16459#.XjRc6gCExzk.twitter). New Phytologist, 2020.
+
+Zingaretti, LM; Gezan, SG; **Ferrão, LFV**; Osorio, LF; Monfort, A; Munoz, PR; Whitaker, V; and Perez-Enciso, M. [Exploring deep learning for complex trait genomic prediction in polyploid outcrossing species](https://www.frontiersin.org/articles/10.3389/fpls.2020.00025/abstract). Frontiers in Plant Science, 2020 
+
+
+### 2019
 
 Benevenuto, J; Bhakta, M; Lohr, DA; **Ferrão,LFV**; Resende Jr, MFR; Kirst,M; Quesenberry, K; Munoz, P. [Cost-effective detection of genome-wide signatures for 2,4-D herbicide resistance adaptation in red clover](https://www.nature.com/articles/s41598-019-55676-9). Scientific Reports. 2019.
 
