@@ -1,14 +1,10 @@
 # Publications
 
-## Preprint
-
-**Ferrão, LFV**; Marinho, CD; Munoz, PR; Resende Jr, MFR. [Integration of Dominance and Marker × Environment  Interactions into Maize Genomic Prediction Models](https://www.biorxiv.org/content/early/2018/07/04/362608). bioRxiv. doi: 10.1101/362608, 2018.
-
-
-
 ## Articles
 
 ### 2020
+
+**Ferrão, LFV**; Marinho, CD; Munoz, PR; Resende Jr, MFR. [Improvement of predictive ability in maize hybrids by including dominance effects and marker × environment models](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/csc2.20096). Crop Science, 2020.
 
 **Ferrão, LFV**; Johnson, TS; Benevenuto, J; Edger, PP;  Colquhoun, TA;  Munoz, PR. [Genome‐wide association of volatiles reveals candidate loci for blueberry flavor](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16459#.XjRc6gCExzk.twitter). New Phytologist, 2020.
 
