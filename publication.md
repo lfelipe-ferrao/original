@@ -2,8 +2,7 @@
 
 ## Preprint
 
-Cappai, F; Amadeu, RR; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1). doi: https://doi.org/10.1101/2020.05.13.093633   
-
+Cappai, F; Amadeu, RR; Benevenuto,J; Cullen, R; Garcia, A; Grossman, A; **Ferrão, LFV**; Munoz,PR. [High-Resolution Linkage Map and QTL Analyses for Machine Harvest Traits in Autotetraploid Blueberry](https://www.biorxiv.org/content/10.1101/2020.05.13.093633v1). 
 ## Articles
 
 ### 2020
