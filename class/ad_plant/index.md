@@ -1,5 +1,3 @@
-# AGR6322 - Advanced Plant Breeding
-
 ## Prof: Esteban Rios
 
 ### Fall 2018
